@@ -1,0 +1,7 @@
+{
+  "testcase/android/test_login_page.py::TestLoginPage::test_click_account_login": true,
+  "testcase/android/test_login_page.py::TestLoginPage::test_invalid_login[111-123]": true,
+  "testcase/android/test_login_page.py::TestLoginPage::test_invalid_login[222-456]": true,
+  "testcase/android/test_login_page.py::TestLoginPage::test_valid_login": true,
+  "testcase/android/test_player_page.py::TestPlayerPage::test_operate_blocks": true
+}

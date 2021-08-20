@@ -1,0 +1,6 @@
+{
+  "test_login_page.py::TestLoginPage::test_click_account_login": true,
+  "test_login_page.py::TestLoginPage::test_invalid_login[111-123]": true,
+  "test_login_page.py::TestLoginPage::test_invalid_login[222-456]": true,
+  "test_login_page.py::TestLoginPage::test_valid_login": true
+}

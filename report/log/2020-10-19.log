@@ -1,0 +1,29 @@
+2020-10-19 17:03:58,279 root INFO /Users/gaofeihong/Downloads/kids_app_ui-dev/base/testcase.py  setup_class line:152     ############################### env: prod; TestLoginPage start ###############################
+2020-10-19 17:03:58,280 root INFO /Users/gaofeihong/Downloads/kids_app_ui-dev/base/testcase.py  setup_method line:173  ############################### case: test_click_cm_login start ###############################
+2020-10-19 17:03:58,282 root DEBUG /Users/gaofeihong/Downloads/kids_app_ui-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/layout_fast_enter')
+2020-10-19 17:04:52,648 root INFO /Users/gaofeihong/Downloads/kids_app_ui-dev/base/base_page.py  find_element line:73  获取元素 cn.codemao.android.kids.lite:id/layout_fast_enter SUCCESS Spend 54.3656690120697 seconds
+2020-10-19 17:04:52,649 root DEBUG /Users/gaofeihong/Downloads/kids_app_ui-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="7165e7d3-784e-40e1-a7d0-07a3bd455db3", element="856b827c-6db9-46cb-9e58-e444f0c2c999")>
+2020-10-19 17:05:13,829 root INFO /Users/gaofeihong/Downloads/kids_app_ui-dev/base/base_page.py  click line:359  点击  cn.codemao.android.kids.lite:id/layout_fast_enter  Spend 75.5472481250763 seconds
+2020-10-19 17:05:14,337 root INFO /Users/gaofeihong/Downloads/kids_app_ui-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_click_cm_login end  ###############################
+2020-10-19 17:05:16,445 root INFO /Users/gaofeihong/Downloads/kids_app_ui-dev/base/testcase.py  teardown_class line:193  ############################### env: prod; TestLoginPage end ###############################
+2020-10-19 17:19:23,535 root INFO /Users/gaofeihong/Downloads/kids_app_ui-dev/base/testcase.py  setup_class line:152     ############################### env: prod; TestLoginPage start ###############################
+2020-10-19 17:19:23,536 root INFO /Users/gaofeihong/Downloads/kids_app_ui-dev/base/testcase.py  setup_method line:173  ############################### case: test_click_account_login start ###############################
+2020-10-19 17:19:23,538 root DEBUG /Users/gaofeihong/Downloads/kids_app_ui-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/layout_fast_enter')
+2020-10-19 17:20:17,563 root INFO /Users/gaofeihong/Downloads/kids_app_ui-dev/base/base_page.py  find_element line:73  获取元素 cn.codemao.android.kids.lite:id/layout_fast_enter SUCCESS Spend 54.02440309524536 seconds
+2020-10-19 17:20:17,564 root DEBUG /Users/gaofeihong/Downloads/kids_app_ui-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="d9b1ea2d-dd8a-4bf5-aab4-4f98cdbd8990", element="ae6a25d1-4d7a-440b-abd3-471aedfd342b")>
+2020-10-19 17:20:38,872 root INFO /Users/gaofeihong/Downloads/kids_app_ui-dev/base/base_page.py  click line:359  点击  cn.codemao.android.kids.lite:id/layout_fast_enter  Spend 75.33365297317505 seconds
+2020-10-19 17:20:39,551 root INFO /Users/gaofeihong/Downloads/kids_app_ui-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_click_account_login end  ###############################
+2020-10-19 17:20:41,616 root INFO /Users/gaofeihong/Downloads/kids_app_ui-dev/base/testcase.py  teardown_class line:193  ############################### env: prod; TestLoginPage end ###############################
+2020-10-19 17:22:50,631 root DEBUG main.py  exe_command line:66  多个文件路径，pytest拼接的命令：python3 -m pytest testcase/android  --alluredir=/Users/gaofeihong/Downloads/kids_app_ui-dev/report/2020-10-19/xml_tmp_dir -n=1 --reruns=0
+2020-10-19 17:22:58,164 root INFO /Users/gaofeihong/Downloads/kids_app_ui-dev/base/testcase.py  setup_class line:152     ############################### env: prod; TestLoginPage start ###############################
+2020-10-19 17:22:58,165 root INFO /Users/gaofeihong/Downloads/kids_app_ui-dev/base/testcase.py  setup_method line:173  ############################### case: test_click_account_login start ###############################
+2020-10-19 17:22:58,167 root DEBUG /Users/gaofeihong/Downloads/kids_app_ui-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/layout_fast_enter')
+2020-10-19 17:23:45,743 root INFO /Users/gaofeihong/Downloads/kids_app_ui-dev/base/base_page.py  find_element line:73  获取元素 cn.codemao.android.kids.lite:id/layout_fast_enter SUCCESS Spend 47.57525897026062 seconds
+2020-10-19 17:23:45,743 root DEBUG /Users/gaofeihong/Downloads/kids_app_ui-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="6e5d3e50-66cb-4679-8ebb-75a465a7d113", element="87f4ce37-dee4-4706-827e-e7dd8bbd1baa")>
+2020-10-19 17:24:07,050 root INFO /Users/gaofeihong/Downloads/kids_app_ui-dev/base/base_page.py  click line:359  点击  cn.codemao.android.kids.lite:id/layout_fast_enter  Spend 68.88243675231934 seconds
+2020-10-19 17:24:07,637 root INFO /Users/gaofeihong/Downloads/kids_app_ui-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_click_account_login end  ###############################
+2020-10-19 17:24:09,722 root INFO /Users/gaofeihong/Downloads/kids_app_ui-dev/base/testcase.py  teardown_class line:193  ############################### env: prod; TestLoginPage end ###############################
+2020-10-19 17:24:10,023 root INFO main.py  mk_allure_report line:41  开始生成allure测试报告
+2020-10-19 17:24:10,034 root INFO main.py  mk_allure_report line:43  生成allure报告完毕，报告路径：/Users/gaofeihong/Downloads/kids_app_ui-dev/report/2020-10-19/AllureReport172250
+2020-10-19 17:24:10,035 root INFO main.py  mk_allure_report line:46  删除临时xml文件完成
+2020-10-19 17:24:10,035 root INFO main.py  mk_allure_report line:47  打开测试报告

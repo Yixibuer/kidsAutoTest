@@ -1,0 +1,14 @@
+# 无效登录数据
+invalid_login_data:
+  tel:
+    - 13512344567
+    - 13512344561
+  password:
+    - 123456
+    - 456678
+
+# 有效账号
+valid_login_data:
+  tel_pwd:
+    - 15641054931
+    - 123456

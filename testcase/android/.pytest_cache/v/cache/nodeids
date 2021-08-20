@@ -1,0 +1,7 @@
+[
+  "test_login_page.py::TestLoginPage::test_invalid_login[111-123]",
+  "test_login_page.py::TestLoginPage::test_invalid_login[222-456]",
+  "test_login_page.py::TestLoginPage::test_valid_login",
+  "test_login_page.py::TestLoginPage::test_click_cm_login",
+  "test_login_page.py::TestLoginPage::test_click_account_login"
+]

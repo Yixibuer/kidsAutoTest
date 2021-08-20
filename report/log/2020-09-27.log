@@ -1,0 +1,578 @@
+2020-09-27 11:42:01,279 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_class line:152     ############################### env: prod; TestLoginPage start ###############################
+2020-09-27 11:42:01,280 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_method line:173  ############################### case: test_invalid_login start ###############################
+2020-09-27 11:42:01,281 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:63  定位的元素：('id', 'com.codemao.nemo:id/tv_account', '手机/账号登录按钮')
+2020-09-27 11:42:01,405 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_invalid_login end  ###############################
+2020-09-27 11:42:01,483 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_method line:173  ############################### case: test_invalid_login start ###############################
+2020-09-27 11:42:01,484 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:63  定位的元素：('id', 'com.codemao.nemo:id/tv_account', '手机/账号登录按钮')
+2020-09-27 11:42:01,544 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_invalid_login end  ###############################
+2020-09-27 11:42:01,589 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_method line:173  ############################### case: test_valid_login start ###############################
+2020-09-27 11:42:01,590 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:63  定位的元素：('id', 'com.codemao.nemo:id/tv_account', '手机/账号登录按钮')
+2020-09-27 11:42:01,640 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_valid_login end  ###############################
+2020-09-27 11:42:01,643 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_class line:193  ############################### env: prod; TestLoginPage end ###############################
+2020-09-27 11:52:34,723 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_class line:152     ############################### env: prod; TestLoginPage start ###############################
+2020-09-27 11:52:34,723 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_method line:173  ############################### case: test_invalid_login start ###############################
+2020-09-27 11:52:34,725 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:63  定位的元素：('id', 'com.codemao.nemo:id/tv_account', '手机/账号登录按钮')
+2020-09-27 11:52:34,875 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_invalid_login end  ###############################
+2020-09-27 11:52:34,939 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_method line:173  ############################### case: test_invalid_login start ###############################
+2020-09-27 11:52:34,940 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:63  定位的元素：('id', 'com.codemao.nemo:id/tv_account', '手机/账号登录按钮')
+2020-09-27 11:52:35,002 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_invalid_login end  ###############################
+2020-09-27 11:52:35,056 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_method line:173  ############################### case: test_valid_login start ###############################
+2020-09-27 11:52:35,057 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:63  定位的元素：('id', 'com.codemao.nemo:id/tv_account', '手机/账号登录按钮')
+2020-09-27 11:52:35,120 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_valid_login end  ###############################
+2020-09-27 11:52:35,126 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_class line:193  ############################### env: prod; TestLoginPage end ###############################
+2020-09-27 12:03:24,978 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_class line:152     ############################### env: prod; TestLoginPage start ###############################
+2020-09-27 12:04:19,696 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_method line:173  ############################### case: test_invalid_login start ###############################
+2020-09-27 12:04:23,505 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:63  定位的元素：('id', 'com.codemao.nemo:id/tv_account', '手机/账号登录按钮')
+2020-09-27 12:04:31,634 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_class line:193  ############################### env: prod; TestLoginPage end ###############################
+2020-09-27 12:04:40,349 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_class line:152     ############################### env: prod; TestLoginPage start ###############################
+2020-09-27 12:04:50,166 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_class line:152     ############################### env: prod; TestLoginPage start ###############################
+2020-09-27 12:06:52,632 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_class line:152     ############################### env: prod; TestLoginPage start ###############################
+2020-09-27 12:08:01,695 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_method line:173  ############################### case: test_invalid_login start ###############################
+2020-09-27 12:08:27,287 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:63  定位的元素：('id', 'com.codemao.nemo:id/tv_account', '手机/账号登录按钮')
+2020-09-27 12:08:57,571 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_invalid_login end  ###############################
+2020-09-27 12:09:04,924 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_method line:173  ############################### case: test_invalid_login start ###############################
+2020-09-27 12:09:17,349 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:63  定位的元素：('id', 'com.codemao.nemo:id/tv_account', '手机/账号登录按钮')
+2020-09-27 12:09:53,141 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_invalid_login end  ###############################
+2020-09-27 12:09:57,623 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_method line:173  ############################### case: test_valid_login start ###############################
+2020-09-27 12:10:00,300 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:63  定位的元素：('id', 'com.codemao.nemo:id/tv_account', '手机/账号登录按钮')
+2020-09-27 12:10:05,924 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_valid_login end  ###############################
+2020-09-27 12:10:07,335 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_class line:193  ############################### env: prod; TestLoginPage end ###############################
+2020-09-27 12:21:44,203 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_class line:152     ############################### env: prod; TestLoginPage start ###############################
+2020-09-27 12:21:44,204 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_method line:173  ############################### case: test_invalid_login start ###############################
+2020-09-27 12:21:44,317 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_invalid_login end  ###############################
+2020-09-27 12:21:44,372 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_method line:173  ############################### case: test_invalid_login start ###############################
+2020-09-27 12:21:44,437 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_invalid_login end  ###############################
+2020-09-27 12:21:44,482 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_method line:173  ############################### case: test_valid_login start ###############################
+2020-09-27 12:21:44,519 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_valid_login end  ###############################
+2020-09-27 12:21:44,534 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_class line:193  ############################### env: prod; TestLoginPage end ###############################
+2020-09-27 13:52:08,093 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_class line:152     ############################### env: prod; TestLoginPage start ###############################
+2020-09-27 13:54:00,965 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_method line:173  ############################### case: test_invalid_login start ###############################
+2020-09-27 13:55:51,168 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:63  定位的元素：('id', 'com.codemao.nemo:id/tv_account', '手机/账号登录按钮')
+2020-09-27 13:56:38,476 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_invalid_login end  ###############################
+2020-09-27 13:56:44,384 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_method line:173  ############################### case: test_invalid_login start ###############################
+2020-09-27 13:56:50,732 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:63  定位的元素：('id', 'com.codemao.nemo:id/tv_account', '手机/账号登录按钮')
+2020-09-27 13:57:52,784 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_invalid_login end  ###############################
+2020-09-27 13:57:55,402 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_method line:173  ############################### case: test_valid_login start ###############################
+2020-09-27 13:58:07,518 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:63  定位的元素：('id', 'com.codemao.nemo:id/tv_account', '手机/账号登录按钮')
+2020-09-27 13:59:32,960 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_valid_login end  ###############################
+2020-09-27 13:59:34,302 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_class line:193  ############################### env: prod; TestLoginPage end ###############################
+2020-09-27 17:03:58,189 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_class line:152     ############################### env: prod; TestLoginPage start ###############################
+2020-09-27 17:03:58,190 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_method line:173  ############################### case: test_invalid_login start ###############################
+2020-09-27 17:03:58,191 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'com.codemao.nemo:id/tv_account', '手机/账号登录按钮')
+2020-09-27 17:04:02,968 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:73  获取元素 手机/账号登录按钮 SUCCESS Spend 4.77623987197876 seconds
+2020-09-27 17:04:02,968 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="43b5fc8d-6a20-4bcb-b837-2bc532e146af", element="6b8becce-782a-4d27-91e5-ab7ca5336305")>
+2020-09-27 17:04:03,069 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click_existing_element line:370  元素手机/账号登录按钮存在, 点击成功
+2020-09-27 17:04:03,070 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_elements line:105  定位的元素：[('xpath', '//*[@text="手机号/用户名"]', '用户名输入框'), ('xpath', '//*[@text="手机号/用户名"]/../../following-sibling::android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.EditText[1]', '密码输框')]
+2020-09-27 17:04:03,070 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('xpath', '//*[@text="手机号/用户名"]', '用户名输入框')
+2020-09-27 17:04:03,309 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:73  获取元素 用户名输入框 SUCCESS Spend 0.23967790603637695 seconds
+2020-09-27 17:04:03,310 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="43b5fc8d-6a20-4bcb-b837-2bc532e146af", element="f52b9165-5889-40c5-8c61-7f6586b6ca80")>
+2020-09-27 17:04:03,310 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('xpath', '//*[@text="手机号/用户名"]/../../following-sibling::android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.EditText[1]', '密码输框')
+2020-09-27 17:04:03,896 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:73  获取元素 密码输框 SUCCESS Spend 0.586601972579956 seconds
+2020-09-27 17:04:03,897 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="43b5fc8d-6a20-4bcb-b837-2bc532e146af", element="28862586-57e2-4db3-a90b-4bbad865ebeb")>
+2020-09-27 17:04:03,897 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_elements line:115  获取到的元素对象列表：[<appium.webdriver.webelement.WebElement (session="43b5fc8d-6a20-4bcb-b837-2bc532e146af", element="f52b9165-5889-40c5-8c61-7f6586b6ca80")>, <appium.webdriver.webelement.WebElement (session="43b5fc8d-6a20-4bcb-b837-2bc532e146af", element="28862586-57e2-4db3-a90b-4bbad865ebeb")>]
+2020-09-27 17:04:04,952 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  send_keys line:326  用户名输入框 send_keys 111, Spend 1.882540225982666 seconds
+2020-09-27 17:04:06,602 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  send_keys line:326  密码输框 send_keys 123, Spend 3.5329363346099854 seconds
+2020-09-27 17:04:07,607 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'com.codemao.nemo:id/confirmBtn')
+2020-09-27 17:04:07,704 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:73  获取元素 com.codemao.nemo:id/confirmBtn SUCCESS Spend 0.09734892845153809 seconds
+2020-09-27 17:04:07,704 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="43b5fc8d-6a20-4bcb-b837-2bc532e146af", element="e8d06fcf-4ad0-4a4e-8c75-73cdcce51c65")>
+2020-09-27 17:04:07,749 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:359  点击  com.codemao.nemo:id/confirmBtn  Spend 0.1422278881072998 seconds
+2020-09-27 17:04:08,252 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('xpath', '//android.widget.TextView[@text="用户名或密码输入不正确哦"]')
+2020-09-27 17:04:08,693 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:73  获取元素 //android.widget.TextView[@text="用户名或密码输入不正确哦"] SUCCESS Spend 0.44066381454467773 seconds
+2020-09-27 17:04:08,693 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="43b5fc8d-6a20-4bcb-b837-2bc532e146af", element="b834e4b7-9761-455d-bd57-729f8cd3656c")>
+2020-09-27 17:04:08,694 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_invalid_login end  ###############################
+2020-09-27 17:04:10,455 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_method line:173  ############################### case: test_invalid_login start ###############################
+2020-09-27 17:04:10,456 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'com.codemao.nemo:id/tv_account', '手机/账号登录按钮')
+2020-09-27 17:04:15,274 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:73  获取元素 手机/账号登录按钮 SUCCESS Spend 4.818391799926758 seconds
+2020-09-27 17:04:15,275 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="43b5fc8d-6a20-4bcb-b837-2bc532e146af", element="722ae0a4-8dfb-4378-b8b0-5dfd9f59bd51")>
+2020-09-27 17:04:15,348 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click_existing_element line:370  元素手机/账号登录按钮存在, 点击成功
+2020-09-27 17:04:15,348 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_elements line:105  定位的元素：[('xpath', '//*[@text="手机号/用户名"]', '用户名输入框'), ('xpath', '//*[@text="手机号/用户名"]/../../following-sibling::android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.EditText[1]', '密码输框')]
+2020-09-27 17:04:15,348 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('xpath', '//*[@text="手机号/用户名"]', '用户名输入框')
+2020-09-27 17:04:16,178 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:73  获取元素 用户名输入框 SUCCESS Spend 0.8297779560089111 seconds
+2020-09-27 17:04:16,179 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="43b5fc8d-6a20-4bcb-b837-2bc532e146af", element="05b8a161-77c8-4f4f-837b-ec0c5c93b68a")>
+2020-09-27 17:04:16,179 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('xpath', '//*[@text="手机号/用户名"]/../../following-sibling::android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.EditText[1]', '密码输框')
+2020-09-27 17:04:16,236 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:73  获取元素 密码输框 SUCCESS Spend 0.057045936584472656 seconds
+2020-09-27 17:04:16,236 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="43b5fc8d-6a20-4bcb-b837-2bc532e146af", element="bb886617-d452-445f-8b75-3f06f97a686d")>
+2020-09-27 17:04:16,236 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_elements line:115  获取到的元素对象列表：[<appium.webdriver.webelement.WebElement (session="43b5fc8d-6a20-4bcb-b837-2bc532e146af", element="05b8a161-77c8-4f4f-837b-ec0c5c93b68a")>, <appium.webdriver.webelement.WebElement (session="43b5fc8d-6a20-4bcb-b837-2bc532e146af", element="bb886617-d452-445f-8b75-3f06f97a686d")>]
+2020-09-27 17:04:17,284 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  send_keys line:326  用户名输入框 send_keys 222, Spend 1.9360229969024658 seconds
+2020-09-27 17:04:18,928 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  send_keys line:326  密码输框 send_keys 456, Spend 3.579463005065918 seconds
+2020-09-27 17:04:19,933 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'com.codemao.nemo:id/confirmBtn')
+2020-09-27 17:04:20,030 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:73  获取元素 com.codemao.nemo:id/confirmBtn SUCCESS Spend 0.09718608856201172 seconds
+2020-09-27 17:04:20,030 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="43b5fc8d-6a20-4bcb-b837-2bc532e146af", element="e8a98980-9f3f-49ea-8f75-85c1d059a866")>
+2020-09-27 17:04:20,092 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:359  点击  com.codemao.nemo:id/confirmBtn  Spend 0.15900707244873047 seconds
+2020-09-27 17:04:20,596 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('xpath', '//android.widget.TextView[@text="用户名或密码输入不正确哦"]')
+2020-09-27 17:04:21,071 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:73  获取元素 //android.widget.TextView[@text="用户名或密码输入不正确哦"] SUCCESS Spend 0.47527098655700684 seconds
+2020-09-27 17:04:21,071 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="43b5fc8d-6a20-4bcb-b837-2bc532e146af", element="59a955ca-4431-4523-9b29-44e6bc699b7d")>
+2020-09-27 17:04:21,073 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_invalid_login end  ###############################
+2020-09-27 17:04:22,762 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_class line:193  ############################### env: prod; TestLoginPage end ###############################
+2020-09-27 18:30:45,701 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_class line:152     ############################### env: prod; TestLoginPage start ###############################
+2020-09-27 18:30:45,703 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_method line:173  ############################### case: test_invalid_login start ###############################
+2020-09-27 18:30:45,782 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_invalid_login end  ###############################
+2020-09-27 18:30:47,353 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_method line:173  ############################### case: test_invalid_login start ###############################
+2020-09-27 18:30:47,357 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_invalid_login end  ###############################
+2020-09-27 18:30:48,913 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_class line:193  ############################### env: prod; TestLoginPage end ###############################
+2020-09-27 18:36:40,654 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_class line:152     ############################### env: prod; TestLoginPage start ###############################
+2020-09-27 18:36:40,656 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_method line:173  ############################### case: test_invalid_login start ###############################
+2020-09-27 18:36:40,657 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:36:52,535 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:73  获取元素 cn.codemao.android.kids.lite:id/tv_parent SUCCESS Spend 11.877402067184448 seconds
+2020-09-27 18:36:52,535 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="926d83ef-a858-4b24-b1da-6f5c691ddcbe", element="d1862145-2b14-4380-807f-8feea92480d0")>
+2020-09-27 18:36:52,621 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:359  点击  cn.codemao.android.kids.lite:id/tv_parent  Spend 11.963767766952515 seconds
+2020-09-27 18:36:53,126 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:36:53,331 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:73  获取元素 cn.codemao.android.kids.lite:id/tv_parent SUCCESS Spend 0.20499181747436523 seconds
+2020-09-27 18:36:53,331 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="926d83ef-a858-4b24-b1da-6f5c691ddcbe", element="3d7e6fb9-8ef9-476f-919c-0e7614ea14f1")>
+2020-09-27 18:36:53,415 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:359  点击  cn.codemao.android.kids.lite:id/tv_parent  Spend 0.28867602348327637 seconds
+2020-09-27 18:36:53,920 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:36:54,070 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:73  获取元素 cn.codemao.android.kids.lite:id/tv_parent SUCCESS Spend 0.14982104301452637 seconds
+2020-09-27 18:36:54,070 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="926d83ef-a858-4b24-b1da-6f5c691ddcbe", element="d43504b1-8940-4ad9-be4e-2181a3f55058")>
+2020-09-27 18:36:54,154 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:359  点击  cn.codemao.android.kids.lite:id/tv_parent  Spend 0.2344191074371338 seconds
+2020-09-27 18:36:54,659 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:36:54,822 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:73  获取元素 cn.codemao.android.kids.lite:id/tv_parent SUCCESS Spend 0.1634047031402588 seconds
+2020-09-27 18:36:54,823 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="926d83ef-a858-4b24-b1da-6f5c691ddcbe", element="61ca3645-e639-41fa-8db7-0d8aee49006e")>
+2020-09-27 18:36:55,394 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:359  点击  cn.codemao.android.kids.lite:id/tv_parent  Spend 0.7350893020629883 seconds
+2020-09-27 18:36:55,898 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:36:56,018 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:73  获取元素 cn.codemao.android.kids.lite:id/tv_parent SUCCESS Spend 0.11954712867736816 seconds
+2020-09-27 18:36:56,018 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="926d83ef-a858-4b24-b1da-6f5c691ddcbe", element="219c9dd7-8441-49cb-ac9b-34d50993c83f")>
+2020-09-27 18:36:56,071 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:359  点击  cn.codemao.android.kids.lite:id/tv_parent  Spend 0.17257213592529297 seconds
+2020-09-27 18:36:56,575 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:36:56,687 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:73  获取元素 cn.codemao.android.kids.lite:id/tv_parent SUCCESS Spend 0.11138105392456055 seconds
+2020-09-27 18:36:56,687 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="926d83ef-a858-4b24-b1da-6f5c691ddcbe", element="94bee7fc-7d85-469f-8a34-b27b9a4e5401")>
+2020-09-27 18:36:57,246 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:359  点击  cn.codemao.android.kids.lite:id/tv_parent  Spend 0.6710608005523682 seconds
+2020-09-27 18:36:57,752 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:36:57,921 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:73  获取元素 cn.codemao.android.kids.lite:id/tv_parent SUCCESS Spend 0.1694810390472412 seconds
+2020-09-27 18:36:57,921 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="926d83ef-a858-4b24-b1da-6f5c691ddcbe", element="d92d18ff-ab4c-46bd-9180-ca71aece191e")>
+2020-09-27 18:36:58,012 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:359  点击  cn.codemao.android.kids.lite:id/tv_parent  Spend 0.2602107524871826 seconds
+2020-09-27 18:36:58,517 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:36:58,670 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:73  获取元素 cn.codemao.android.kids.lite:id/tv_parent SUCCESS Spend 0.1524348258972168 seconds
+2020-09-27 18:36:58,671 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="926d83ef-a858-4b24-b1da-6f5c691ddcbe", element="9d3f6f21-0efd-46b2-b500-1f9899252489")>
+2020-09-27 18:36:59,254 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:359  点击  cn.codemao.android.kids.lite:id/tv_parent  Spend 0.73771071434021 seconds
+2020-09-27 18:36:59,760 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:36:59,885 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:73  获取元素 cn.codemao.android.kids.lite:id/tv_parent SUCCESS Spend 0.1250629425048828 seconds
+2020-09-27 18:36:59,885 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="926d83ef-a858-4b24-b1da-6f5c691ddcbe", element="a5231922-d45f-4c75-b43c-cfa166a9f0d5")>
+2020-09-27 18:36:59,958 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:359  点击  cn.codemao.android.kids.lite:id/tv_parent  Spend 0.1982131004333496 seconds
+2020-09-27 18:37:00,462 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:37:00,622 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:73  获取元素 cn.codemao.android.kids.lite:id/tv_parent SUCCESS Spend 0.15916681289672852 seconds
+2020-09-27 18:37:00,622 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="926d83ef-a858-4b24-b1da-6f5c691ddcbe", element="d9e86722-ba08-41de-a8c6-4b9bb80d49a2")>
+2020-09-27 18:37:00,716 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:359  点击  cn.codemao.android.kids.lite:id/tv_parent  Spend 0.2537672519683838 seconds
+2020-09-27 18:37:01,220 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:37:01,333 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:73  获取元素 cn.codemao.android.kids.lite:id/tv_parent SUCCESS Spend 0.11348867416381836 seconds
+2020-09-27 18:37:01,334 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="926d83ef-a858-4b24-b1da-6f5c691ddcbe", element="0a52c875-6e43-41a1-802a-b6335580aa7a")>
+2020-09-27 18:37:01,908 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:359  点击  cn.codemao.android.kids.lite:id/tv_parent  Spend 0.6888768672943115 seconds
+2020-09-27 18:37:02,413 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:37:21,270 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 18:37:21,271 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 18.857914209365845 seconds
+2020-09-27 18:37:21,274 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-27 18:37:21,274 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:37:32,012 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 18:37:32,013 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.738433837890625 seconds
+2020-09-27 18:37:32,013 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-27 18:37:32,013 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:37:42,713 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 18:37:42,714 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.700745820999146 seconds
+2020-09-27 18:37:42,714 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-27 18:37:42,714 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:37:53,360 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 18:37:53,361 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.64625096321106 seconds
+2020-09-27 18:37:53,361 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-27 18:37:53,361 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:38:11,117 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_invalid_login end  ###############################
+2020-09-27 18:38:31,419 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_class line:152     ############################### env: prod; TestLoginPage start ###############################
+2020-09-27 18:38:31,420 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_method line:173  ############################### case: test_click_cm_login start ###############################
+2020-09-27 18:38:31,421 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:39:23,611 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:73  获取元素 cn.codemao.android.kids.lite:id/tv_parent SUCCESS Spend 52.190037965774536 seconds
+2020-09-27 18:39:23,612 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="f807ffd5-3ae9-4523-b6e1-62f31d7f040e", element="ef5dae46-6b59-43d1-ab39-3cbfe2a7d8ab")>
+2020-09-27 18:39:29,584 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_click_cm_login end  ###############################
+2020-09-27 18:39:31,193 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_method line:173  ############################### case: test_invalid_login start ###############################
+2020-09-27 18:39:31,194 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:39:31,332 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_invalid_login end  ###############################
+2020-09-27 18:39:32,902 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_method line:173  ############################### case: test_invalid_login start ###############################
+2020-09-27 18:39:32,903 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:39:32,972 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_invalid_login end  ###############################
+2020-09-27 18:39:34,530 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_class line:193  ############################### env: prod; TestLoginPage end ###############################
+2020-09-27 18:47:20,865 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_class line:152     ############################### env: prod; TestLoginPage start ###############################
+2020-09-27 18:47:20,866 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  setup_method line:173  ############################### case: test_click_cm_login start ###############################
+2020-09-27 18:47:20,866 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:48:13,039 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:73  获取元素 cn.codemao.android.kids.lite:id/tv_parent SUCCESS Spend 52.172433853149414 seconds
+2020-09-27 18:48:13,040 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="9bccb3a9-58af-4f82-ba9b-458b3e76e414", element="f703a980-c71e-41c6-9fa7-83d1193db1a8")>
+2020-09-27 18:48:33,939 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:359  点击  cn.codemao.android.kids.lite:id/tv_parent  Spend 73.07231163978577 seconds
+2020-09-27 18:48:34,444 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-27 18:48:34,567 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:73  获取元素 cn.codemao.android.kids.lite:id/tv_login SUCCESS Spend 0.12279391288757324 seconds
+2020-09-27 18:48:34,567 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:74  获取到的元素：<appium.webdriver.webelement.WebElement (session="9bccb3a9-58af-4f82-ba9b-458b3e76e414", element="ecb4bb74-1c13-411c-b7e6-b63838032105")>
+2020-09-27 18:48:34,626 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:359  点击  cn.codemao.android.kids.lite:id/tv_login  Spend 0.18207383155822754 seconds
+2020-09-27 18:48:35,131 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:48:45,826 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 18:48:45,827 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.695761919021606 seconds
+2020-09-27 18:48:45,829 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-27 18:48:45,829 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-27 18:48:56,457 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 18:48:56,458 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.628461122512817 seconds
+2020-09-27 18:48:56,458 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-27 18:48:56,458 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:49:07,105 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 18:49:07,106 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.647649049758911 seconds
+2020-09-27 18:49:07,106 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-27 18:49:07,106 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-27 18:49:17,780 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 18:49:17,780 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.673804759979248 seconds
+2020-09-27 18:49:17,781 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-27 18:49:17,781 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:49:28,439 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 18:49:28,440 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.658689022064209 seconds
+2020-09-27 18:49:28,440 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-27 18:49:28,440 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-27 18:49:39,160 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 18:49:39,161 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.720914840698242 seconds
+2020-09-27 18:49:39,162 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-27 18:49:39,162 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:49:49,811 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 18:49:49,811 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.649317264556885 seconds
+2020-09-27 18:49:49,812 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-27 18:49:49,812 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-27 18:50:00,452 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 18:50:00,452 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.640198230743408 seconds
+2020-09-27 18:50:00,453 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-27 18:50:00,453 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:50:11,184 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 18:50:11,185 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.732201099395752 seconds
+2020-09-27 18:50:11,186 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-27 18:50:11,186 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-27 18:50:21,884 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 18:50:21,885 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.698919773101807 seconds
+2020-09-27 18:50:21,885 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-27 18:50:21,885 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:50:32,513 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 18:50:32,513 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.627937078475952 seconds
+2020-09-27 18:50:32,514 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-27 18:50:32,514 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-27 18:50:43,139 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 18:50:43,140 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.626146793365479 seconds
+2020-09-27 18:50:43,141 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-27 18:50:43,141 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:50:53,877 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 18:50:53,877 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.736378192901611 seconds
+2020-09-27 18:50:53,878 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-27 18:50:53,878 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-27 18:51:04,549 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 18:51:04,550 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.671915769577026 seconds
+2020-09-27 18:51:04,550 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-27 18:51:04,550 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:51:15,183 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 18:51:15,183 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.632666110992432 seconds
+2020-09-27 18:51:15,183 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-27 18:51:15,184 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-27 18:51:25,835 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 18:51:25,836 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.651774883270264 seconds
+2020-09-27 18:51:25,836 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-27 18:51:25,836 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:51:36,517 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 18:51:36,517 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.681010007858276 seconds
+2020-09-27 18:51:36,518 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-27 18:51:36,518 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-27 18:51:47,177 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 18:51:47,178 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.660155057907104 seconds
+2020-09-27 18:51:47,179 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-27 18:51:47,179 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 18:51:57,901 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 18:51:57,902 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.722262144088745 seconds
+2020-09-27 18:51:57,902 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-27 18:51:57,902 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-27 19:31:06,951 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 19:31:06,952 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 2349.0494179725647 seconds
+2020-09-27 19:31:06,952 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-27 19:31:06,953 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 19:31:17,783 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 19:31:17,784 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.83182978630066 seconds
+2020-09-27 19:31:17,786 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-27 19:31:17,786 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-27 19:31:28,542 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 19:31:28,543 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.756613969802856 seconds
+2020-09-27 19:31:28,544 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-27 19:31:28,545 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 19:31:39,279 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 19:31:39,281 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.735385179519653 seconds
+2020-09-27 19:31:39,282 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-27 19:31:39,283 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-27 19:31:50,037 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 19:31:50,039 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.755851030349731 seconds
+2020-09-27 19:31:50,040 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-27 19:31:50,041 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 20:08:22,972 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 20:08:22,973 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 2192.9322731494904 seconds
+2020-09-27 20:08:22,974 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-27 20:08:22,974 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-27 20:08:33,692 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 20:08:33,694 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.7201828956604 seconds
+2020-09-27 20:08:33,696 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-27 20:08:33,697 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 20:08:44,427 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 20:08:44,428 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.731190919876099 seconds
+2020-09-27 20:08:44,430 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-27 20:08:44,430 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-27 20:08:55,169 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 20:08:55,170 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.739522218704224 seconds
+2020-09-27 20:08:55,171 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-27 20:08:55,172 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 20:09:05,872 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 20:09:05,874 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.701145887374878 seconds
+2020-09-27 20:09:05,875 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-27 20:09:05,875 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-27 20:43:55,995 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 20:43:55,996 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 2090.1204319000244 seconds
+2020-09-27 20:43:55,997 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-27 20:43:55,997 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 20:44:06,807 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 20:44:06,808 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.811460971832275 seconds
+2020-09-27 20:44:06,810 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-27 20:44:06,810 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-27 20:44:17,552 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 20:44:17,554 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.743551015853882 seconds
+2020-09-27 20:44:17,556 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-27 20:44:17,557 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 20:44:28,284 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 20:44:28,285 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.728500366210938 seconds
+2020-09-27 20:44:28,287 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-27 20:44:28,287 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-27 20:44:39,043 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 20:44:39,044 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.756740808486938 seconds
+2020-09-27 20:44:39,046 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-27 20:44:39,046 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 22:32:04,979 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 22:32:04,980 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 6445.93293595314 seconds
+2020-09-27 22:32:04,980 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-27 22:32:04,980 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-27 22:32:15,715 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 22:32:15,716 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.735761880874634 seconds
+2020-09-27 22:32:15,717 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-27 22:32:15,718 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 22:32:26,477 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 22:32:26,478 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.760131120681763 seconds
+2020-09-27 22:32:26,479 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-27 22:32:26,480 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-27 22:32:37,222 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 22:32:37,224 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.742976188659668 seconds
+2020-09-27 22:32:37,225 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-27 22:32:37,225 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 22:32:47,973 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 22:32:47,974 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.748272895812988 seconds
+2020-09-27 22:32:47,975 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-27 22:32:47,976 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-27 23:00:56,833 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 23:00:56,834 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 1688.8576200008392 seconds
+2020-09-27 23:00:56,834 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-27 23:00:56,834 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 23:01:07,617 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 23:01:07,619 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.784104108810425 seconds
+2020-09-27 23:01:07,620 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-27 23:01:07,620 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-27 23:01:18,362 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 23:01:18,364 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.742850065231323 seconds
+2020-09-27 23:01:18,365 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-27 23:01:18,365 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-27 23:01:29,106 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 23:01:29,107 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.74115777015686 seconds
+2020-09-27 23:01:29,108 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-27 23:01:29,109 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-27 23:01:39,840 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-27 23:01:39,842 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.73272705078125 seconds
+2020-09-27 23:01:39,843 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-27 23:01:39,844 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-28 00:23:07,856 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 00:23:07,856 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 4888.0119478702545 seconds
+2020-09-28 00:23:07,856 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-28 00:23:07,856 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-28 00:23:18,650 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 00:23:18,652 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.795444011688232 seconds
+2020-09-28 00:23:18,654 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-28 00:23:18,654 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-28 00:23:29,404 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 00:23:29,405 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.750435829162598 seconds
+2020-09-28 00:23:29,406 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-28 00:23:29,407 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-28 00:23:40,148 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 00:23:40,150 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.74204397201538 seconds
+2020-09-28 00:23:40,151 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-28 00:23:40,152 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-28 00:23:50,898 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 00:23:50,899 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.747328996658325 seconds
+2020-09-28 00:23:50,900 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-28 00:23:50,901 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-28 02:11:16,673 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 02:11:16,674 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 6445.772484779358 seconds
+2020-09-28 02:11:16,674 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-28 02:11:16,674 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-28 02:11:27,473 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 02:11:27,476 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.801984071731567 seconds
+2020-09-28 02:11:27,479 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-28 02:11:27,479 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-28 02:11:38,224 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 02:11:38,225 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.745453834533691 seconds
+2020-09-28 02:11:38,226 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-28 02:11:38,227 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-28 02:11:48,976 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 02:11:48,977 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.749360084533691 seconds
+2020-09-28 02:11:48,978 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-28 02:11:48,979 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-28 02:11:59,725 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 02:11:59,726 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.746624946594238 seconds
+2020-09-28 02:11:59,727 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-28 02:11:59,728 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-28 03:59:25,717 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 03:59:25,717 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 6445.989078998566 seconds
+2020-09-28 03:59:25,718 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-28 03:59:25,718 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-28 03:59:36,502 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 03:59:36,504 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.78553295135498 seconds
+2020-09-28 03:59:36,505 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-28 03:59:36,506 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-28 03:59:47,251 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 03:59:47,252 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.74648380279541 seconds
+2020-09-28 03:59:47,254 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-28 03:59:47,254 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-28 03:59:57,998 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 03:59:57,999 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.744510889053345 seconds
+2020-09-28 03:59:58,001 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-28 03:59:58,001 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-28 04:00:08,736 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 04:00:08,737 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.735509157180786 seconds
+2020-09-28 04:00:08,738 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-28 04:00:08,739 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-28 05:47:34,605 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 05:47:34,606 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 6445.866454124451 seconds
+2020-09-28 05:47:34,606 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-28 05:47:34,607 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-28 05:47:45,332 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 05:47:45,334 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.727537870407104 seconds
+2020-09-28 05:47:45,336 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-28 05:47:45,337 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-28 05:47:56,076 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 05:47:56,078 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.740567684173584 seconds
+2020-09-28 05:47:56,079 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-28 05:47:56,080 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-28 05:48:06,824 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 05:48:06,826 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.745668888092041 seconds
+2020-09-28 05:48:06,827 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-28 05:48:06,828 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-28 05:48:17,563 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 05:48:17,564 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.736073970794678 seconds
+2020-09-28 05:48:17,565 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-28 05:48:17,566 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-28 07:35:43,480 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 07:35:43,480 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 6445.914004802704 seconds
+2020-09-28 07:35:43,481 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-28 07:35:43,481 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-28 07:35:54,198 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 07:35:54,199 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.718098878860474 seconds
+2020-09-28 07:35:54,200 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-28 07:35:54,201 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-28 07:36:04,949 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 07:36:04,951 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.749094009399414 seconds
+2020-09-28 07:36:04,952 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-28 07:36:04,953 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-28 07:36:15,683 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 07:36:15,685 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.731494188308716 seconds
+2020-09-28 07:36:15,686 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-28 07:36:15,686 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-28 07:36:26,446 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 07:36:26,447 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.7603919506073 seconds
+2020-09-28 07:36:26,448 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-28 07:36:26,449 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-28 09:23:52,482 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 09:23:52,483 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 6446.033104896545 seconds
+2020-09-28 09:23:52,483 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-28 09:23:52,483 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-28 09:24:03,317 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 09:24:03,320 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.836719989776611 seconds
+2020-09-28 09:24:03,322 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-28 09:24:03,322 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-28 09:24:14,058 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 09:24:14,061 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.737894296646118 seconds
+2020-09-28 09:24:14,062 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-28 09:24:14,063 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-28 09:24:24,811 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 09:24:24,812 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.749145030975342 seconds
+2020-09-28 09:24:24,813 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-28 09:24:24,814 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-28 09:24:35,575 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 09:24:35,576 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.76158595085144 seconds
+2020-09-28 09:24:35,577 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-28 09:24:35,578 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-28 10:36:58,348 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 10:36:58,349 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 4342.77064704895 seconds
+2020-09-28 10:36:58,350 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-28 10:36:58,351 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-28 10:37:09,132 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 10:37:09,133 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.782332181930542 seconds
+2020-09-28 10:37:09,134 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-28 10:37:09,135 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-28 10:37:19,879 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 10:37:19,881 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.745518684387207 seconds
+2020-09-28 10:37:19,882 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-28 10:37:19,883 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-28 10:37:30,626 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 10:37:30,628 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.744508743286133 seconds
+2020-09-28 10:37:30,629 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-28 10:37:30,630 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-28 10:37:41,377 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 10:37:41,379 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.748815059661865 seconds
+2020-09-28 10:37:41,380 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-28 10:37:41,381 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-28 11:01:16,462 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 11:01:16,463 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 1415.0819959640503 seconds
+2020-09-28 11:01:16,463 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-28 11:01:16,464 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-28 11:01:27,220 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 11:01:27,222 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.758178949356079 seconds
+2020-09-28 11:01:27,224 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-28 11:01:27,225 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-28 11:01:38,005 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 11:01:38,007 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.781738042831421 seconds
+2020-09-28 11:01:38,008 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-28 11:01:38,009 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-28 11:01:48,866 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 11:01:48,868 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.858942985534668 seconds
+2020-09-28 11:01:48,870 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-28 11:01:48,871 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-28 11:01:59,656 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 11:01:59,658 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.786903858184814 seconds
+2020-09-28 11:01:59,659 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-28 11:01:59,660 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-28 11:02:58,015 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 11:02:58,016 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 58.35541486740112 seconds
+2020-09-28 11:02:58,016 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-28 11:02:58,016 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-28 11:03:08,756 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 11:03:08,758 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.74193000793457 seconds
+2020-09-28 11:03:08,760 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-28 11:03:08,761 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-28 11:03:19,568 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 11:03:19,570 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.80834174156189 seconds
+2020-09-28 11:03:19,571 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-28 11:03:19,572 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-28 11:03:30,325 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 11:03:30,326 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.754166841506958 seconds
+2020-09-28 11:03:30,327 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-28 11:03:30,328 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-28 11:03:41,074 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 11:03:41,076 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.746965885162354 seconds
+2020-09-28 11:03:41,077 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-28 11:03:41,078 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-28 11:20:05,671 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 11:20:05,671 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 984.5931477546692 seconds
+2020-09-28 11:20:05,671 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-28 11:20:05,672 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-28 11:20:16,400 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 11:20:16,401 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.729634046554565 seconds
+2020-09-28 11:20:16,402 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-28 11:20:16,403 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-28 11:20:27,150 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 11:20:27,151 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.74773907661438 seconds
+2020-09-28 11:20:27,153 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-28 11:20:27,153 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-28 11:20:37,895 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 11:20:37,896 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_parent FAIL Spend 10.742232084274292 seconds
+2020-09-28 11:20:37,897 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_parent')，未获取到元素
+2020-09-28 11:20:37,898 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_login')
+2020-09-28 11:20:48,647 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  screenshot line:613  截图保存在: /Users/gaofeihong/Downloads/nemo_ui_ios-dev/report/screenshot
+2020-09-28 11:20:48,648 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:78  获取元素 cn.codemao.android.kids.lite:id/tv_login FAIL Spend 10.750139951705933 seconds
+2020-09-28 11:20:48,649 root ERROR /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  click line:362  ('id', 'cn.codemao.android.kids.lite:id/tv_login')，未获取到元素
+2020-09-28 11:20:48,650 root DEBUG /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/base_page.py  find_element line:65  定位的元素：('id', 'cn.codemao.android.kids.lite:id/tv_parent')
+2020-09-28 12:52:49,951 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_method line:180  ###############################  case: test_click_cm_login end  ###############################
+2020-09-28 12:52:51,662 root INFO /Users/gaofeihong/Downloads/nemo_ui_ios-dev/base/testcase.py  teardown_class line:193  ############################### env: prod; TestLoginPage end ###############################

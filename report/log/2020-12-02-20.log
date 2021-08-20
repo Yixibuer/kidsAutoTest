@@ -1,0 +1,1 @@
+2020-12-02 20:00:50,627 root DEBUG main.py  exe_command line:66  多个文件路径，pytest拼接的命令：python3 -m pytest testcase/android  --alluredir=D:\KidsAutoTest\kids_app_ui_dev\report\2020-12-02\xml_tmp_dir -n=1 --reruns=0

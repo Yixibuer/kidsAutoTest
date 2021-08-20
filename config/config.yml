@@ -1,0 +1,76 @@
+conf:
+#  元素定位超时时间
+  wait_time: 10
+#  web端测试地址
+  url: shequ.codemao.cn
+#  配置的环境test, staging, prod(用于访问不同环境的地址和测试数据)
+#  env: test
+  env: prod
+  browser: chrome
+#  运行平台配置，支持web、android、ios、grid
+  platform: android
+#  platform: android
+#  platform: ios
+#  platform: grid
+#  移动端连接地址
+  command_executor: http://localhost:4723/wd/hub
+
+grid_caps:
+  #  grid 连接地址
+  hub_url: 'http://xx:5001/wd/hub'
+
+android_caps:
+  platformName: Android
+  platformVersion: '10.0'
+#  platformVersion: '6'
+  deviceName: 66J5T19125009096
+#  apk包路径
+#  app: '/Users/msk/soft/nemo-dev-v3.3.0.apk'
+  appPackage: cn.codemao.android.kids.lite
+  appActivity: .module.splash.SplashActivity
+  automationName: UiAutomator2
+
+  autoGrantPermissions: 'true'
+#  unicodeKeyboard: 'true'
+#  设备ID
+#  udid: '127.0.0.1:5555'
+#  udid: 'JQYNW18C14019547'
+#  不卸载, 不清除app数据
+  noReset: 'true'
+#  fullReset: 'false'
+  
+ios_caps:
+#  通用配置
+  platformName: 'iOS'
+  automationName: "XCUITest"
+  bundleId: "cn.codemao.Nemo"
+  #  不清除数据，不卸载app
+  noReset: "true"
+  #  忽略弹窗
+  autoDismissAlerts: 'true'
+#  接受弹窗
+#  autoAcceptAlerts: 'true'
+#  includeNonModalElements: false
+
+#  模拟器配置
+  platformVersion: '13.5'
+  deviceName: 'iPhone 11 Pro'
+#  app: '/Users/msk/soft/nemo33.app'
+#  deviceName: 'iPhone 11 Pro Max'
+#  deviceName: 'iPad Pro'
+#  deviceName: 'iPhone 11'
+#  app的路径
+#  udid: "10FCD87C-1EC7-493A-B003-F5A5132531D8"
+#  udid: "214AB991-D720-4424-81D0-2E71389F7A53"
+
+#  真机配置
+#  platformVersion: '13.5.1'
+#  deviceName: 'iPhone X'
+#  udid: "e292bbab3963e5184483f08d4ec984988d921622"
+#  platformVersion: '12.2'
+#  deviceName: 'iPhone 7'
+#  "xcodeOrgId": "R5A35URG47"
+#  "xcodeSigningId": "iPhone Developer"
+
+
+
